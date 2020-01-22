@@ -3,6 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>Microshaoft.StoreProceduresExecutors.NET.Core._3.x</RootNamespace>
+    <AssemblyName>Microshaoft.SPE.NET.Core.3.x</AssemblyName>
   </PropertyGroup>
 
   <Import Project="..\..\SharedSources\Microshaoft.StoreProcedureExecutors.Shared.projitems" Label="Shared" />
