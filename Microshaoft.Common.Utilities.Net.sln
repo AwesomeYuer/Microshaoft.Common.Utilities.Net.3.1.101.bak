@@ -109,7 +109,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00.Solution Items", "00.Sol
 	ProjectSection(SolutionItems) = preProject
 		.gitattributes = .gitattributes
 		.gitignore = .gitignore
-		copyrundebug2x.sh = copyrundebug2x.sh
 		copyrundebug3x.sh = copyrundebug3x.sh
 		License.txt = License.txt
 		README.md = README.md
